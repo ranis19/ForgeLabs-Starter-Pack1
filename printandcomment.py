@@ -6,6 +6,9 @@
 print("Hello, Python World!")
 print("This is your first line of code.")
 
+# Prints Hello <input username> ! in one line
+print("Hello", input("Enter your name:"), "!")
+
 # You can print numbers too
 print(25)
 print(10 + 5)
